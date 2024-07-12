@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: #e6007e;
+    padding: 5px;
+   color:  #fff;
+   
+}
+.order{
+    width: 60%;
+}
+.order span{
+    margin-left: 60px;
+}
+.contact{
+    width: 50%;
+}
