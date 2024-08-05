@@ -1,0 +1,108 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main-footer{
+    display: flex;
+}
+.zero-logo img{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.follow h3{
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.follow-icons{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 21px;
+    gap: 15px;
+}
+ i{
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 21px;
+}
+.quick-heading p{
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.link-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+.link-list li{
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 15px;
+    font-size: 22px;
+
+}
+.support p{
+    margin-left: 80px;
+    margin-top: 60px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.support{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+.support li{
+    list-style: none;
+    margin-left: 80px;
+    margin-top: 15px;
+    font-size: 22px;
+}
+.policy{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+.policy p{
+    margin-left: 80px;
+    margin-top: 60px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.policy li{
+    list-style: none;
+    margin-left: 80px;
+    margin-top: 15px;
+    font-size: 22px;
+}
+.hr{
+    display: flex;
+    justify-content: center;
+}
+.hr hr{
+    width: 85%;
+    margin-top: 30px;
+    opacity: 0.3;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+}
+.copy{
+    font-size: 18px;
+margin-left: 60px;
+margin-top: 30px;
+}
+.rad p{
+    margin-right: 100px;
+    margin-top: 30px;
+    font-size: 22px;
+}
+.rad mark{
+    color: red;
+    background-color: transparent;
+    margin-left: 6px;
+}

@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Paragraphs{
+    margin-top: 70px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+.Paragraphs h5{
+    margin-left: 0px;
+    font-size: 20px;
+}
+.Paragraphs p{
+    margin-left: 0px;
+    font-size: 13px;
+}
+.Paragraphs-2{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Paragraphs-2 h4{
+    font-size: 22px;
+
+}
+.paragraph-1 p{
+    margin-left: 0px;
+    font-size: 13px;
+
+
+}
+.Paragraphs-3{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Paragraphs-3 h4{
+    font-size: 22px;
+
+}
+.Paragraphs-4{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Paragraphs-4 h4{
+    font-size: 22px;
+
+}
+.Paragraphs-5{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Paragraphs-5 h4{
+    font-size: 22px;
+
+}
+.Paragraphs-5 p{
+    margin-left: 0px;
+    font-size: 13px;
+}
+.Paragraphs-6{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Paragraphs-6 h4{
+    font-size: 22px;
+
+}
+.Paragraphs-6 p{
+    margin-left: 0px;
+    font-size: 13px;
+}

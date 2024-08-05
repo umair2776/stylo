@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.watches{
+    display: flex;
+    margin-top: 20px;
+}
+.watches-main{
+    display: flex;
+    justify-content: space-around;
+}
+.heading h3{
+    width: 100%;
+    margin-left: 20px;
+}
+.paragraph p{
+    margin-left: 20px;
+}
+.second-watch{
+    background-color: #efefef;
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 320px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+}
+.platinum-image img{
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+}
+
+
+.platinum-watch p{
+    background: linear-gradient(90deg, #747aff, #ff1446);
+    margin-left: 10px;
+    width: 150px;
+}
+.vogue-heading h2{
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.faster p{
+margin-left: 0px;
+font-size: 14px;
+width: 65%;
+margin-top: 10px;
+margin-left: 30px;
+
+}
+.fasten-color{
+    display: flex;
+    margin-left: 25px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.fasten-color .colors-1{
+    height: 25px;
+    width: 25px;
+    border-radius: 20px;
+    background-color: goldenrod;
+}
+.fasten-color .colors-2{
+    height: 25px;
+    width: 25px;
+    border-radius: 20px;
+    background-color: goldenrod;
+}
+.fasten-color .colors-3{
+    height: 25px;
+    width: 25px;
+    border-radius: 20px;
+    background-color: goldenrod;
+}
+.fasten-color .colors-4{
+    height: 25px;
+    width: 25px;
+    border-radius: 20px;
+    background-color: goldenrod;
+}
+.fasten-color .colors-5{
+    height: 25px;
+    width: 25px;
+    border-radius: 20px;
+    background-color: goldenrod;
+}
+.blue p{
+margin-left: 30px;
+font-size: 14px;
+
+}
+.blue h3{
+    margin-left: 30px;
+    margin-top: 8px;
+}
+.make-flex{
+    display: flex;
+}
+
+.make-flex button{
+    height: 60px;
+    font-size: 10px;
+    width: 70px;
+    border-radius: 30px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+}
+.red h5{
+    margin-top: 13px;
+    margin-left: 10px;
+}

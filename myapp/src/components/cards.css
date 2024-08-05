@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.card-main{
+     /* border: 3px solid black; */
+    /* width: auto; */
+    /* margin-left: 10px; */
+     
+    
+
+}
+.flex-box{
+    display: flex;
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+}
+.second-main h6{
+    width: 100px;
+    font-size: 10px;
+    margin: 15px 20px;
+background: linear-gradient(90deg, #747aff, #ff1446);
+
+
+}
+.second-main{
+    background-color: #efefef;
+    height: 280px;
+    width: 170px;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.box-img{
+    display: flex;
+    justify-content: center;
+}
+.box-img img{
+height: 200px;
+width: 200px;
+}
+h3{
+    margin-left: 55px;
+    font-size: 24px;
+    margin-top: 3px;
+    width: 100px;
+}
+p{
+    margin-left: 40px;
+    font-size: 12px;
+}
+hr{
+    width: 170px;
+    margin-left: 30px;
+}
+.colors{
+    margin-left: 30px;
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.color-1{
+    background-color: #ff1446;
+    height: 20px;
+    width: 20px;
+    border-radius: 25px;
+}
+.color-2{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 25px;
+  
+}
+.color-3{
+    background-color: aqua;
+    height: 20px;
+    width: 20px;
+    border-radius: 25px;
+}
+.color-4{
+    background-color: brown;
+    height: 20px;
+    width: 20px;
+    border-radius: 25px;
+}
+.color-5{
+    background-color: orange;
+    height: 20px;
+    width: 20px;
+    border-radius: 25px;
+}
+.rate p{
+margin-left: 30px;
+font-size: 14px;
+}
+.rate h4{
+    margin-left: 30px;
+    margin-top: 6px;
+}
+
+.btn-main{
+    display: flex;
+
+}
+.mark p{
+margin-left: 30px;
+}
+.off p{
+    margin-left: 10px;
+    color: red;
+    /* font-size: 14px; */
+}
+.btn button{
+   height: 60px;
+   width: 50px;
+   border-radius: 30px;
+   margin-left: 10px;
+   background-color: black;
+   color: white;
+}
+.btn  button:hover{
+    cursor: pointer;
+    color: red;
+}

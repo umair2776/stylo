@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.signup{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    margin-top: 70px;
+}
+.sign-heading {
+    color: white;
+display: flex;
+justify-content: flex-start;
+}
+.sign-heading h2{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 22px;
+
+
+}
+.search{
+    
+    display: flex;
+}
+.serch-button button{
+    background-color: red;
+    color: wheat;
+    font-size: 18px;
+
+}
+.product{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+.product p{
+    font-size: 18px;
+    width: 400px;
+    margin-top: 0px;
+    color: white;
+}
+.input{
+    margin-top: px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: center;
+}
+.input input{
+    height: 50px;
+    margin-top: -20px;
+    width: 350px;
+    background-color: rgb(46, 46, 46);
+    border: 1px solid white; 
+    font-size: 22px;
+}
+.serch-button{
+    margin-top: -20px;
+
+}
+.serch-button button{
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+}

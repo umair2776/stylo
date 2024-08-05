@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Zero{
+    display: flex;
+    justify-content: center;
+}
+
+.Zero h1{
+    margin-left: 0px;
+}
+.stories{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    gap: 15px;
+
+}
+.stories img{
+    width: 200px;
+    height: 190px;
+    border-radius: 20px;
+}
+.stories-heading{
+    display: flex;
+     /* margin-top: 20px; */
+    /* justify-content: space-evenly; */
+    /* gap: 15px;  */
+    /* justify-content: center; */
+
+}
+.stories-1{
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 25px;
+
+}
+.stories-2{
+    width: 250px;
+     margin-left: -25px;
+    margin-top: 25px; 
+
+}
+.stories-3{
+    width: 200px;
+    margin-left: -25px;
+   margin-top: 25px; 
+}
+.stories-4{
+    width: 200px;
+    margin-left: 35px;
+   margin-top: 25px; 
+}
+.stories-5{
+    width: 200px;
+    margin-left: 35px;
+   margin-top: 25px; 
+}
+.stories-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.stories-button button{
+    width: 230px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
+.stories-button button:hover{
+    cursor: pointer;
+    color: red;
+}
